@@ -1,1 +1,2 @@
 Hello git
+i gonna modifie this file to merge it later
